@@ -4,7 +4,7 @@ A lightweight, responsive personal portfolio built with HTML, CSS, and vanilla J
 
 ## About
 
-Stephanie Nicole Briones is an Information Technology student interested in web development, system development, databases, UI/UX, and software engineering. This site presents selected project work and a growing technical toolkit.
+Stephanie Nicole Briones is a third-year Information Technology college student interested in web development, system development, databases, UI/UX, and software engineering. This site presents selected project work and a growing technical toolkit.
 
 ## Features
 
