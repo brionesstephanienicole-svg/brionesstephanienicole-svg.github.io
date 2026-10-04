@@ -1,0 +1,10 @@
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private local notes and secrets (never commit credentials)
+.env
+.env.*
+*.local
